@@ -1,0 +1,10 @@
+#bola{
+    background: url(img/bola.jpg);
+    border: 5px solid #000;
+}
+p{
+    text-align: center;
+}
+p:hover {
+    background-color: rgb(27, 141, 241);
+}
